@@ -1,0 +1,74 @@
+[
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "item",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column item"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "instance_1",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column instance_1"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "instance_2",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column instance_2"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "instance_3",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column instance_3"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "subclass",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column subclass"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "website_lang",
+    "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column website_lang"
+  }
+]
