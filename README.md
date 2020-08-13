@@ -10,3 +10,7 @@ This repository includes data to import and edit the proposed and accepted `NFDI
 * open https://quickstatements.toolforge.org/#/batch
 * insert QuickStatements
 * start Wikidata Import
+
+## License
+
+Florian Thiery, Research Squirrel Enginners, „nfdi-wikidata“, CC BY 4.0
